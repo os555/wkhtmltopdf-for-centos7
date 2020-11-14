@@ -1,7 +1,8 @@
 
 # How to Setup wkhtmltopdf on CentOS 7
 ====================================
-HOD Dev team are using wkhtmltopdf to gen pdf from html file so this need to be install on server.
+
+  HOD Dev team are using wkhtmltopdf to gen pdf from html file so this need to be install on server.
 
 
 Install Dependencies
